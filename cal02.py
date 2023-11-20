@@ -1,1 +1,0 @@
-print("anus khan")
